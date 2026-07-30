@@ -1,0 +1,22 @@
+{
+  "name": "02_events-module",
+  "version": "1.0.0",
+  "description": "Backend Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekTester1994/Nodejs_Backend_Learn.git"
+  },
+  "keywords": [
+    "Backend"
+  ],
+  "author": "Vivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivekTester1994/Nodejs_Backend_Learn/issues"
+  },
+  "homepage": "https://github.com/VivekTester1994/Nodejs_Backend_Learn#readme"
+}
