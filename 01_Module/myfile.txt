@@ -1,0 +1,6 @@
+This is the content of myfile.txt
+
+function outer(a,b){
+    return a+b
+}
+outer();

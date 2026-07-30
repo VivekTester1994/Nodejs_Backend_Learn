@@ -1,0 +1,22 @@
+{
+  "name": "01_module",
+  "version": "1.0.0",
+  "description": "Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "nil"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekTester1994/Nodejs_Backend_Learn.git"
+  },
+  "keywords": [
+    "LearnBackend"
+  ],
+  "author": "Vivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivekTester1994/Nodejs_Backend_Learn/issues"
+  },
+  "homepage": "https://github.com/VivekTester1994/Nodejs_Backend_Learn#readme"
+}
